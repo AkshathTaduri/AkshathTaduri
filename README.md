@@ -14,11 +14,7 @@
 
 # Hobbies
 
-- coding 👾
-- running 🏃‍♂️
-- soccer ⚽
-- basketball 🏀
-- chess ♟️
+- coding 👾, running 🏃‍♂️, soccer ⚽, basketball 🏀, and chess ♟️
 
 take a look at some of my projects below
 <!--
