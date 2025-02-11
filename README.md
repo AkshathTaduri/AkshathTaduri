@@ -1,16 +1,16 @@
-## Hi there! My name is Akshath Taduri
+## Hi there! My name is Akshath Taduri 👋
 
-# I am currently:
+# I am currently 📕:
 
-- studying Computer Science and Mathematics at the University of Texas at Austin.
-- developing full-stack applications to learn new frameworks
-- self-teaching AI/ML
+- studying Computer Science and Mathematics at the University of Texas at Austin. 🤘
+- developing full-stack applications to learn new frameworks 👨‍💻
+- self-teaching AI/ML 🤖
 
 # Experience
 
-- software engineer intern @ DraftKings
-- ml/ai engineer intern @ GamePlay
-- software engineer intern @ Supreme Lending
+- software engineer intern @ DraftKings 👑
+- ml/ai engineer intern @ GamePlay ⚽
+- software engineer intern @ Supreme Lending 💵
 
 
 
