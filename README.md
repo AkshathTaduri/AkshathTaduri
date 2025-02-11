@@ -2,7 +2,7 @@
 
 # I am currently 📕:
 
-- studying Computer Science and Mathematics at the University of Texas at Austin. 🤘
+- studying Computer Science and Mathematics at the University of Texas at Austin 🤘
 - developing full-stack applications to learn new frameworks 👨‍💻
 - self-teaching AI/ML 🤖
 
