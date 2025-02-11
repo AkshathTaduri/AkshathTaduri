@@ -9,11 +9,18 @@
 # Experience
 
 - software engineer intern @ DraftKings 👑
-- machine learning engineer intern @ GamePlay ⚽
+- machine learning engineer intern @ GamePlay 🏈
 - software engineer intern @ Supreme Lending 💵
 
+# Hobbies
 
-take a look at some of my projects below vv
+- coding 👾
+- running 🏃‍♂️
+- soccer ⚽
+- basketball 🏀
+- chess ♟️
+
+take a look at some of my projects below
 <!--
 **AkshathTaduri/AkshathTaduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
