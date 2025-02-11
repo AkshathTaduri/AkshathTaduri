@@ -13,7 +13,7 @@
 - software engineer intern @ Supreme Lending 💵
 
 
-
+take a look at some of my projects below vv
 <!--
 **AkshathTaduri/AkshathTaduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
