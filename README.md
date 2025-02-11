@@ -9,7 +9,7 @@
 # Experience
 
 - software engineer intern @ DraftKings 👑
-- ml/ai engineer intern @ GamePlay ⚽
+- machine learning engineer intern @ GamePlay ⚽
 - software engineer intern @ Supreme Lending 💵
 
 
